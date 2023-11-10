@@ -3,11 +3,13 @@ streamlit_option_menu
 numpy
 pandas
 pushbullet.py==0.9.1
+dlib-binary
+cmake
 opencv-python-headless
 face-recognition==1.3.0
 #face-recognition-models==0.3.0
 click==8.1.3
-dlib-binary
+
 numpy
 Pillow==9.2.0
 scipy==1.9.1
