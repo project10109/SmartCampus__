@@ -2,3 +2,6 @@ streamlit
 streamlit_option_menu
 numpy
 pandas
+pushbullet.py==0.9.1
+opencv-python-headless
+face-recognition
