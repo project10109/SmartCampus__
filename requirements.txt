@@ -3,8 +3,9 @@ streamlit_option_menu
 numpy
 pandas
 pushbullet.py==0.9.1
-dlib-binary
 cmake
+dlib-binary
+
 opencv-python-headless
 face-recognition==1.3.0
 #face-recognition-models==0.3.0
