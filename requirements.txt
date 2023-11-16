@@ -5,7 +5,7 @@ pandas
 pushbullet.py==0.9.1
 
 cmake
-dlib==19.4
+dlib -vvv
 
 opencv-python-headless
 #face-recognition==1.3.0
